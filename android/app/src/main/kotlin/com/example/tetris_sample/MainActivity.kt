@@ -1,0 +1,5 @@
+package com.example.tetris_sample
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
