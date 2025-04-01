@@ -1,7 +1,7 @@
 # Flutter Tetris Sample
 
 ClineとGemini 2.5 proでiOSやAndroidで動作するテトリスを作成するサンプルです。  
-完成済みのコードではなく、空のFlutterプロジェクトから、以下のプロンプトをClineに投げることで、自動でテトリスを作成します！
+完成済みのコードではなく、空のFlutterプロジェクトから、以下のプロンプトをClineに投げることで、自動でテトリスが完成します！
 
 ```
 # Flutter Tetrisゲーム開発指示書
